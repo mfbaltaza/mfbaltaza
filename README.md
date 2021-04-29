@@ -2,8 +2,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/baltawat?color=%231DA1F2&label=BALTAWAT&logo=twitter&style=for-the-badge)
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently building my personal website
 - ⚡ Fun fact: I know how to rap freestyle
 
