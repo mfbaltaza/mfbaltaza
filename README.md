@@ -4,7 +4,7 @@
 
 Here are some things about me
 
-- 🌱 I’m currently building my personal website
+- 🌱 I’m currently teaching people how to code
 - ⚡ Fun fact: I know how to rap freestyle
 
 ---
